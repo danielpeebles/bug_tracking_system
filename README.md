@@ -4,3 +4,4 @@ This is a bug tracking system I wrote when I was first learning PHP, JavaScript,
 I don't want to bother my old co-workers, so I will recreate the tables.
 
 TODO: recreate the database.
+TODO: redo this as a laravel project, now that I am more familiar with Laravel.
