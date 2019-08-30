@@ -3,5 +3,5 @@ This is a bug tracking system I wrote when I was first learning PHP, JavaScript,
 
 my old senior dev exported the database schema for me, I haven't tested it yet.
 
-TODO: recreate the database.
+TODO: clean up the database import.   data not needed.
 TODO: redo this as a laravel project, now that I am more familiar with Laravel.
